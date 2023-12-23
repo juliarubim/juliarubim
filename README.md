@@ -2,9 +2,9 @@ Sobre Mim:
 
 👩‍💻 Julia Rubim, 23 anos
 
-📚 Estudante de Engenharia de Produção
+📚 Estudante de Engenharia de Produção | Universidade Positivo - 5º periodo (foco em gestão e melhoria de processos/projetos)
 
-🔍 Especialização em Engenharia de Dados (472h)
+🔍 Especializando em Engenharia de Dados (472h) | Data Science Academy 
 
 
 
@@ -12,11 +12,11 @@ Sobre Mim:
 Experiência Profissional:
 
 
-🚀 4 anos de experiência em BI
+🚀 4 anos de experiência em BI - aplicando no dia a dia
 
-📊 3 anos no desenvolvimento de insights no Power BI (foco em visuais - UI/UX)
+📊 3 anos no desenvolvimento de insights no Power BI (foco em visuais - UI/UX) - desenvolvendo desde 2021, e promovida a Analista de Dados - BI em 2023
 
-🔄 Expert em ETL para bancos de dados volumosos (SQL, Excel e experiências com API,BigQuery, e fontes de dados online)
+🔄 Expert em ETL para bancos de dados volumosos (SQL, Excel e experiências com API, BigQuery, e fontes de dados online)
 
 🎯 Projetos variados: automação e otimização de produção, indicadores para clientes, e indicadores internos como: perfomace de colaboradores, RH, TI, Financeiro, projetos e etc.
 
