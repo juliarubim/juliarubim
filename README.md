@@ -18,23 +18,32 @@ Experiência Profissional:
 
 🎯 Projetos variados: automação e otimização de produção, indicadores para clientes, e indicadores internos como: perfomace de colaboradores, RH, TI, Financeiro, projetos e etc.
 
+Compromisso Profissional:
 
-- Compromisso Profissional:
--🌟 Comprometida com a entrega de projetos com alta qualidade
+🌟 Comprometida com a entrega de projetos com alta qualidade
+
 💡 Impulsionada por trazer inovações e melhoria em projetos
 
 🤝 Contribuição mútua para o sucesso meu e da empresa
 
 GitHub:
-👩‍💻 Criadora de um GitHub para compartilhar consultas e códigos de programação, voltados a analises de dados;
+
+👩‍💻 Criadora de um GitHub para compartilhar consultas e códigos de programação, voltados a analises de dados
+
 🚀 Comprometida com a transparência e o aprendizado contínuo
+
 🌐 Contribuição ativa para a comunidade de dados
 
 Contatos:
+
 📞 +55 43 999347426
+
 📧 rubimjulia22@gmail.com
+
 🌐 Portfólio em construção!
+
 🔗 linkedin.com/in/juliarubim
+
 
 <!---
 juliarubim/juliarubim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
