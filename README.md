@@ -1,7 +1,11 @@
 Sobre Mim:
+
 👩‍💻 Julia Rubim, 23 anos
+
 📚 Estudante de Engenharia de Produção
+
 🔍 Especialização em Engenharia de Dados (472h)
+
 
 Experiência Profissional:
 🚀 4 anos de experiência em BI
