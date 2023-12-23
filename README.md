@@ -7,6 +7,8 @@ Sobre Mim:
 🔍 Especialização em Engenharia de Dados (472h)
 
 
+
+
 Experiência Profissional:
 
 
@@ -18,6 +20,8 @@ Experiência Profissional:
 
 🎯 Projetos variados: automação e otimização de produção, indicadores para clientes, e indicadores internos como: perfomace de colaboradores, RH, TI, Financeiro, projetos e etc.
 
+
+
 Compromisso Profissional:
 
 🌟 Comprometida com a entrega de projetos com alta qualidade
@@ -26,6 +30,8 @@ Compromisso Profissional:
 
 🤝 Contribuição mútua para o sucesso meu e da empresa
 
+
+
 GitHub:
 
 👩‍💻 Criadora de um GitHub para compartilhar consultas e códigos de programação, voltados a analises de dados
@@ -33,6 +39,8 @@ GitHub:
 🚀 Comprometida com a transparência e o aprendizado contínuo
 
 🌐 Contribuição ativa para a comunidade de dados
+
+
 
 Contatos:
 
